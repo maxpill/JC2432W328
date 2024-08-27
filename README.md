@@ -39,3 +39,4 @@ Here are some useful links for further information and resources:
 7. [CircuitPython ST7789 Documentation](https://docs.circuitpython.org/projects/st7789/en/latest/)
 8. [ST7789 Datasheet](https://www.rhydolabz.com/documents/33/ST7789.pdf)
 9. [JC2432W328 AliExpress link](https://aliexpress.com/item/1005006729707613.html)
+10. [ESP32 Marauder CYD port for JC2432W328](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display/issues/37)
