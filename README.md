@@ -2,6 +2,8 @@
 
 Welcome to the repository for the JC2432W328 microcontroller board. This repository contains all the documentation related to the JC2432W328 board equipped with the ST7789 display controller.
 
+<img src="https://github.com/maxpill/JC2432W328/blob/main/JC2432W328.jpg" width="50%" height="50%">
+
 ### Overview
 
 The JC2432W328 is a microcontroller board that integrates the ST7789 display controller. The ST7789 is a single-chip controller/driver for 262K-color, graphic-type TFT-LCDs, supporting resolutions of 240x240 and 320x240 pixels.
